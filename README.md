@@ -13,6 +13,10 @@ The entire app, including all its files and resources, exists on a private repos
 - **Search Functionality**: Quickly search and locate books within the library's inventory.
 - **User Management**: Manage user profiles, including students and staff, and their borrowing history.
 
+## Getting Started
+
+A preview of the required format for the book database is provided in the preprocessing.ipnyb file. However, as of right now, this app has not been designed for general use and so applying it to your own data may require some effort. 
+
 
 ## Acknowledgements
 - Rey Valley International School for their collaboration and insights.
