@@ -19,4 +19,4 @@ A preview of the required format for the book database is provided in the prepro
 
 
 ## Acknowledgements
-- Rey Valley International School for their collaboration and insights.
+- Rey Valley International School for the opportunity and their collaboration and insights.
